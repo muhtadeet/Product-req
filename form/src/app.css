@@ -1,0 +1,62 @@
+.App {
+    font-family: sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .form input {
+    height: 30px;
+    border-radius: 15px;
+    padding: 10px;
+  }
+  
+  .btn-cnt {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 20px;
+    width: 30%;
+    background-color: skyblue;
+    color: aliceblue;
+    border: none;
+  }
+  
+  .itemlist {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .itemlist2 {
+    margin-bottom: 10px;
+  }
+  
+  .itemlist :first-child {
+    margin-right: 100px;
+  }
+  
+  .itemlist2 :first-child {
+    margin-right: 40px;
+  }
+  
+  .short-box {
+    width: 70px;
+  }
+  
+  .short-box2 {
+    width: 40px;
+  }
+  
